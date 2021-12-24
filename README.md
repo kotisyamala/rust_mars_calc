@@ -1,4 +1,5 @@
 # mars_calc
+The App runs on rust takes inpit weight in kg of earth and returns the weight on mars
 
 ## My first rust App
 
